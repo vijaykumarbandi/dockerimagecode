@@ -48,9 +48,9 @@ http://localhost:8081/nexus/content/repositories/ARTECH/
 </url>
 </repository>
 <snapshotRepository>	
-<id>luckysnap</id>
+<id>VRTECH</id>
 <url>
-http://localhost:8081/nexus/content/repositories/luckysnap/
+http://localhost:8081/nexus/content/repositories/VRTECH/
 </url>
 </snapshotRepository>
 </distributionManagement>
